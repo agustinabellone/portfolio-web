@@ -6,7 +6,9 @@ Utilicé:
 
 🌼 scrollrevealjs
 
-🌼 fontawesome.com 
+🌼 fontawesome
+
+🌼 formspree
 
 
 
